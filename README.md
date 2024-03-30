@@ -1,1 +1,1 @@
-A boost converter is a DC-DC type switching converter that steps up the voltage while maintaining a constant power balance. This  high-efficiency boost converter circuit based on the popular TL494 IC, which has a minimum supply voltage of 7V and a maximum of 40V.
+A boost converter is a DC-DC type switching converter that steps up the voltage while maintaining a constant power balance. This  high-efficiency boost converter circuit based on the popular TL494 IC, which has a minimum supply voltage of 7V and a maximum of 40V.This circuit can handle a maximum current of 19Amps.
